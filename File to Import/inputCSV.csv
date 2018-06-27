@@ -1,0 +1,16 @@
+eid,ntid,firstName,lastName,jobLevel,email,supNtid,tower,dateHired,costCenter,directReport,gender,jobTitle,regular,fullTime,country,birthDate
+63664,ushuam00,Michael,Huang,Associate - Lead,Michael.Huang@ingrammicro.com,usgatv00,Global Service Delivery,2010-08-16,8195500042,Yes,Male,Business Solutions Lead,Regular,Full time,Manila,4/5
+62499,calera00,Argin,Lerit,Associate - Lead,Argin.Lerit@ingrammicro.com,usgatv00,Global Service Delivery,2010-06-14,8195500042,Yes,Male,Business Solutions Lead,Regular,Full time,Manila,3/29
+63341,usarga00,Alvin,Argonia,Associate,Alvin.Argonia@IngramMicro.com,calera00,Global Services Delivery,2010-08-02,8195500042,No,Male,Bus & Systems Analyst   Svs,Regular,Full time,Manila,11/21
+82245,uscuen01,Noel,Cuevas,Associate,Noel.Cuevas@ingrammicro.com,calera00,Global Services Delivery,2013-10-22,8195500042,No,Male,Bus Process Mgt Analyst,Regular,Full time,Manila,11/5
+102512,usdalo00,Orly,Daluyo,Associate,Orly.Daluyo@ingrammicro.com,calera00,Global Services Delivery,2016-03-31,8195500042,No,Male,Bus Process Mgt Analyst,Regular,Full time,Manila,12/31
+92415,usduma00,Alexandra Denise,Dumandan,Associate,Alexandra.Dumandan@ingrammicro.com,calera00,Global Services Delivery,2015-04-27,8195500042,No,Female,Bus & Systems Analyst   Svs,Regular,Full time,Manila,11/18
+70133,usesem00,Mark Francis,Eseo,Associate,Mark.Eseo@ingrammicro.com,calera00,Global Services Delivery,2012-04-09,8195500042,No,Male,Bus Process Mgt Analyst,Regular,Full time,Manila,11/4
+63551,D1GRUEM0,Michael,Gruet,Associate,Michael.Gruet@IngramMicro.com,calera00,Global Services Delivery,2010-08-02,8195500042,No,Male,Bus Process Mgt Analyst,Regular,Full time,Manila,9/14
+108206,usjacj03,Jose III,Jacinto,Associate - Lead,Jose.Jacinto@ingrammicro.com,usmore04,Global Services Delivery,2016-08-10,8195659066,No,Male,Transition Lead,Regular,Full time,Manila,9/24
+108484,uslegc00,Charmaine Andrea,Legaspi,Associate,Charmaine.Legaspi@ingrammicro.com,ushuam00,Global Services Delivery,2016-08-25,8195500042,No,Female,Junior Developer,Regular,Full time,Manila,4/6
+101779,usmarm01,Matthew,Marte,Associate,Matthew.Marte@ingrammicro.com,calera00,Global Services Delivery,2016-03-10,8195650008,No,Male,Department Systems Analyst,Regular,Full time,Manila,2/18
+108378,uspagf00,Francis Jerome,Pagaragan,Associate,Francis.Pagaragan@ingrammicro.com,ushuam00,Global Services Delivery,2017-03-25,8195500042,No,Male,Junior Developer,Regular,Full time,Manila,6/17
+93988,usrabj00,Jeanette,Rabacio,Associate,Jeanette.Rabacio@ingrammicro.com,ushuam00,Global Services Delivery,2015-06-29,8195500042,No,Female,Sr Web Designer,Regular,Full time,Manila,6/22
+112963,ussapj01,John Eric,Sapungan,Associate,JohnEric.Sapungan@ingrammicro.com,ushuam00,Global Services Delivery,2017-02-09,8195500042,No,Male,Sr Web Developer,Regular,Full time,Manila,1/9
+113329,usyerj00,Julius Jim,Yerro,Associate,Julius.Yerro@ingrammicro.com,ushuam00,Global Services Delivery,2017-02-27,8195500042,No,Male,Sr Web Developer,Regular,Full time,Manila,9/19
